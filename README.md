@@ -1,2 +1,2 @@
 # DL-SIM
-Deep learning-based structured illumination microscopy super-resolution
+High-fidelity reconstruction of structured illumination microscopy by an amplitude-phase channel attention network with multitemporal information
