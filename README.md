@@ -5,7 +5,7 @@ High-fidelity reconstruction of structured illumination microscopy by an amplitu
 
 # Usage
   ## training
-    # some hyper-paramters in options.py, you can edit them!
+    # Some hyper-paramters in options.py, you can edit them!
     # Before training, you need to prepare the training dataset and place it in the dataset directory.
     # Then, run train.py.
   
