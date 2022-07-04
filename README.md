@@ -1,7 +1,13 @@
 # DL-SIM
 High-fidelity reconstruction of structured illumination microscopy by an amplitude-phase channel attention network with multitemporal information
 # Dependencies
-  
+  * Python 3.7.10
+  * PyTorch 1.9.0
+  * numpy 1.18.5
+  * imageio 2.9.0
+  * matplotlib 3.4.2
+  * scikit-image 0.18.2
+  * torchvision 0.10.0
 
 # Usage
   ## training
