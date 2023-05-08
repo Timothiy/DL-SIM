@@ -20,3 +20,12 @@ High-fidelity reconstruction of structured illumination microscopy by an amplitu
     # If you want to use the pre-trained model with APCAN w time, then you need to set the opt.model to 'apcan_actin_3' for Actin, 'apcan_er_3' for ER in test.py.
     # Then, you need to change the input path and output path in test.py.
     # Finally, run test.py.
+    
+# T-SIM Dataset
+The T-SIM is a multi-time-point structured illumination microscopy super-resolution dataset containing a total of two sub-datasets, an Endoplasmic Reticulum dataset of 10 time points and a F-actin dataset of 20 time points.
+The T-SIM dataset can be downloaded through the following link：
+https://figshare.com/articles/dataset/F-actin-Cell001-Cell004/22776098
+https://figshare.com/articles/dataset/F-actin-Cell005-Cell008/22776116
+https://figshare.com/articles/dataset/F-actin-Cell009-Cell012/22777142
+https://figshare.com/articles/dataset/F-actin-Cell013-Cell016/22777154
+https://figshare.com/articles/dataset/Endoplasmic_Reticulum/22774850
