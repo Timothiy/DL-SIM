@@ -21,8 +21,9 @@ High-fidelity reconstruction of structured illumination microscopy by an amplitu
     # Then, you need to change the input path and output path in test.py.
     # Finally, run test.py.
     
-# T-SIM Dataset
-  ## The T-SIM is a multi-time-point structured illumination microscopy super-resolution dataset containing a total of two sub-datasets, an Endoplasmic Reticulum dataset of 10 time points and a F-actin dataset of 20 time points.The T-SIM dataset can be downloaded through the following link：
+# Dataset
+  ## T-SIM
+    #  The T-SIM is a multi-time-point structured illumination microscopy super-resolution dataset containing a total of two sub-datasets, an Endoplasmic Reticulum dataset of 10 time points and a F-actin dataset of 20 time points.The T-SIM dataset can be downloaded through the following link：
     1、https://figshare.com/articles/dataset/F-actin-Cell001-Cell004/22776098
     2、https://figshare.com/articles/dataset/F-actin-Cell005-Cell008/22776116
     3、https://figshare.com/articles/dataset/F-actin-Cell009-Cell012/22777142
